@@ -25,10 +25,11 @@ Les difficultés rencontrées dans ce projet sont :
 - Implémentation dans le code principale des fonctions supplémentaire notamment celles des bonus.
 
 
-ELEMENT MANQUANT ---->  - Arreter le programme si je tape initiallement autre chose que 1...2 ou 0.4
-                        - Ajouter a l'option quitter les différentes synthaxe accepter (q, quitter, exit...)
-                        - Implémentater la fonctions qui minuscule dans le code du jeu fonctionnel
-                        - Remplacer potentiellemnt l'enorme quantite de if else dans le jeu par des switch, case.
+ELEMENT MANQUANT ----> 
+- Arreter le programme si je tape initiallement autre chose que 1...2 ou 0.4
+- jouter a l'option quitter les différentes synthaxe accepter (q, quitter, exit...)
+- Implémentater la fonctions qui minuscule dans le code du jeu fonctionnel
+- Remplacer potentiellemnt l'enorme quantite de if else dans le jeu par des switch, case.
 
 
 
